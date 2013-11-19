@@ -4,4 +4,4 @@ House Projects
 For storing information about our projects around the house!
 
 * [Aquaponics](Aquaponics.md)
-* [Terrarium](2)
+* [Terrarium](Terrarium.md)
